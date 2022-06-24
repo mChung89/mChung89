@@ -19,6 +19,8 @@
 
 I am a full-stack software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New York. I enjoy programming and all things engineering. I am a natural born tinkerer with endless curiosity, always seeking new things to learn even if it's something random.
 
+I'm currently looking for job opportunities in the New York City area. Please reach out to me either through LinkedIn or my email mikechung89@gmail.com!
+
 ---
 ### :monocle_face: About Me:
 - :construction: I’m currently learning about... AWS
