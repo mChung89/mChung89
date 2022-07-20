@@ -23,7 +23,7 @@ I'm currently looking for job opportunities in the New York City area. Please re
 
 ---
 ### :monocle_face: About Me:
-- :construction: I’m currently learning about... AWS
+- :construction: I’m currently learning about... Data Structures & Algos
 - 😄 Pronouns: He/Him
 - ⚡ Some hobbies: Traveling, Gaming, Photography
 ---
